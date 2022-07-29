@@ -1,11 +1,10 @@
-package java.petclinic;
+package petclinic;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class PetClinicSpringBootApplicationTests {
-
     @Test
     void contextLoads() {
     }
