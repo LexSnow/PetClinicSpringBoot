@@ -1,4 +1,4 @@
-package petclinic.model;
+package com.lex.petclinic.model;
 
 public class PetType {
     private String name;

@@ -1,4 +1,4 @@
-package petclinic.model;
+package com.lex.petclinic.model;
 
 public class Person {
     private String firstName;
